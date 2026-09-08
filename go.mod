@@ -172,7 +172,7 @@ require (
 	github.com/mark3labs/mcp-go v0.58.0
 	github.com/moby/moby/api v1.56.0
 	github.com/moby/moby/client v0.6.0
-	golang.org/x/sync v0.22.0
+	golang.org/x/sync v0.23.0
 	k8s.io/apiextensions-apiserver v0.37.0
 	k8s.io/metrics v0.37.0
 )
